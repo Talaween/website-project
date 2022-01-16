@@ -1,0 +1,8 @@
+/export/output.exe
+/export
+*.exe
+*.log
+!exception.log
+log.*
+
+
